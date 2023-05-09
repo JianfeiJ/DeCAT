@@ -12,12 +12,12 @@ We use [DTU](http://roboimagedata.compute.dtu.dk/?page_id=36) and [BlendedMVS](h
 ### Tanks & Temples-trained on DTU (F-score)
 |Intermediate|Advanced|
 |    :----:   |    :----:   |
-|56.70|35.59|
+|56.70|**35.59**|
 
 ### Tanks & Temples-trained on BlendedMVS (F-score)
 |Intermediate|Advanced|
 |    :----:   |    :----:   |
-|57.67|35.89|
+|57.67|**35.89**|
 
 ### ETH3D-trained on BlendedMVS
 |  Training  |  Test  |
