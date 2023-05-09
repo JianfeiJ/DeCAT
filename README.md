@@ -2,7 +2,7 @@
 Code will be release soon.
 
 ## Dataset
-Please follow [IterMVS](https://github.com/FangjinhuaWang/IterMVS).
+We use DTU and BlendedMVS dataset for training, and DTU, Tanks & Temples, and ETH3D for testing and evaluation. Please follow [IterMVS](https://github.com/FangjinhuaWang/IterMVS).
 
 ## Evaluation Performance
 ### DTU
