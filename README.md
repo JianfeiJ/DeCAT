@@ -5,4 +5,5 @@ Code will be release soon.
 Please follow [PatchmatchNet](https://github.com/FangjinhuaWang/PatchmatchNet).
 
 ## Some point cloud visualizations
-![image](https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/DWT-MVSNet_scan24.png)
+![image](https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/DWT-MVSNet_scan24.png#pic_right)
+![image](https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/Horse.png)
