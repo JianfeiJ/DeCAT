@@ -25,5 +25,5 @@ For details of the dataset download, please follow [IterMVS](https://github.com/
 |    :----:   |    :----:   |
 |  67.24  |  73.70  |
 
-## Some point cloud visualizations
+## Point cloud visualizations
 <img src="https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/DTU_Compare.png">
