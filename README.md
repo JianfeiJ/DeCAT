@@ -25,5 +25,4 @@ We use [DTU](http://roboimagedata.compute.dtu.dk/?page_id=36) and [BlendedMVS](h
 |  67.24  |  73.70  |
 
 ## Some point cloud visualizations
-<img src="https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/DWT-MVSNet_scan24.png" width="50%">
-<img src="https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/Horse.png" width="50%">
+<img src="https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/DTU_Compare.png">
