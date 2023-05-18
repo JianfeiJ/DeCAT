@@ -18,10 +18,10 @@ To download pre-processed datasets, please follow the instructions provided on [
 | DTU      | 56.70|35.59|
 | BlendedMVS      | 57.67      |35.89|
 
-### ETH3D (F-score)
+<!-- ### ETH3D (F-score)
 |  Training  |  Test  |
 |    :----:   |    :----:   |
-|67.24|73.70|
+|67.24|73.70| -->
 
 ## Point cloud visualizations
 <img src="https://github.com/JianfeiJ/DWT-MVSNet/blob/main/images/DTU_Compare.png">
