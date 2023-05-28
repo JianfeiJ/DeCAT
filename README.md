@@ -9,7 +9,7 @@ To download pre-processed datasets, please follow the instructions provided on [
 ### DTU
 |    Methods  |  Acc. (mm)     | Comp. (mm) | Overall (mm)   |
 |    :----:   |    :----:   |    :----:   |    :----:    |
-| PatchmatchNet (1600×1152)      | 0.427      |0.277| 0.352   |
+| PatchmatchNet (1600×1200)      | 0.427      |0.277| 0.352   |
 | Ours (1152×864)      | 0.442      |0.262| 0.352   |
 | Ours (1600×1152)      | 0.427      |0.256| 0.342   |
 ### Tanks & Temples (F-score)
