@@ -1,4 +1,4 @@
-# DWA-MVSNet
+# DWT-MVSNet
 Code will be release soon.
 
 ## Dataset
