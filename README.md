@@ -1,4 +1,4 @@
-# DWT-MVSNet
+# DeCAT
 Code will be release soon.
 
 ## Dataset
